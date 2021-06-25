@@ -1,4 +1,4 @@
-# TecYHerrModernasLinares
+Técnicas y Herramientas Modernas Linares Ramiro
 
 En este repositorio se presentan tareas realizadas para la cátedra Técnicas y Herramientas Modernas
 Se realizaron las siguientes tareas:
@@ -7,7 +7,7 @@ Se realizaron las siguientes tareas:
     Traducción de un libro de inglés a español, para testear las herramientas de detección de plagio y el dictado por voz en Docs de Google Drive, además del trabajo colaborativo sobre un mismo documento, realizado en Latex (Overleaf.com).
     Se subieron los elementos a github y asi mostrarlos como página web
 
-# Técnicas y Herramientas Modernas
+
 
 ## Curriculum Vitae realizado con Latex
 
@@ -16,5 +16,3 @@ Se realizaron las siguientes tareas:
 ## Transición Energética
 
 [Traducción](https://github.com/25ramy/TecYHerrModernasLinares/blob/main/Tecnicas_y_Herramientas_Modernas___Transici_n_Energ_tica.pdf)
-
-Esta pagina utiliza el tema Jekyll de GitHub Pages.
